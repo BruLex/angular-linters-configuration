@@ -330,7 +330,7 @@ Happy linting! 💖
             {
                 "rulesDirectory": [
                     "node_modules/codelyzer",
-                    "node_modules/rxjs-tslint-rules/dist/rules",
+                    "node_modules/rxjs-tslint-rules/dist/rules"
                 ],
                 "rules": {
                     "member-ordering": [
